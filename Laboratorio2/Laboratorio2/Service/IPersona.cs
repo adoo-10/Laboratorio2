@@ -9,7 +9,7 @@ namespace Laboratorio2.Service
 {
     interface IPersona
     {
-        void Guardar(ENTIDAD E);
-            List<ENTIDAD> listardatos();
+        void Guardar(persona per);
+        List<persona> listardatos();
     }
 }
