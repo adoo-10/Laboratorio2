@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Laboratorio2
 {
-    public partial class Form1 : Form
+    public partial class FrmGuardarInformacion : Form
     {
-        public Form1()
+        public FrmGuardarInformacion()
         {
             InitializeComponent();
         }
