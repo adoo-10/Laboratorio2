@@ -1,4 +1,5 @@
 ﻿using System;
+using Laboratorio2.Data;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,7 @@ namespace Laboratorio2.Service
 {
     interface IPersona
     {
+        void Guardar(ENTIDAD E);
+            List<ENTIDAD> listardatos();
     }
 }
