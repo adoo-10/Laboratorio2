@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Laboratorio2.Negocio
 {
@@ -12,17 +13,16 @@ namespace Laboratorio2.Negocio
     {
         public void  Crear(persona pe)
         {
-            if (pe.edadPersona>=18)
+            if (pe.edadPersona >= 18)
+                
             {
                 Guardar(pe);
             }
-
             else
             {
-                MessageBox.Show("No se pueden guardar sus datos porque eres menor de edad")
+                MessageBox.Show("No se pueden guardar tus datos porque eres menor de edad");
 
             }
-
         }
         public List<persona> Listafinal()
         {

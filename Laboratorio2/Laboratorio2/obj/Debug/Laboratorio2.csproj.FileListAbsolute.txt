@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\OneDrive\GitHub\Laboratorio2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\OneDrive\GitHub\Laboratorio2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\MINEDUCYT\OneDrive\GitHub\Laboratorio2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.Vista.FrmGuardarInformacion.resources
+C:\Users\MINEDUCYT\OneDrive\GitHub\Laboratorio2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.Vista.FrmMostrarInformacion.resources
+C:\Users\MINEDUCYT\OneDrive\GitHub\Laboratorio2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\OneDrive\GitHub\Laboratorio2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\GitHub\Laboratorio2\Laboratorio2\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Users\MINEDUCYT\OneDrive\GitHub\Laboratorio2\Laboratorio2\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Users\MINEDUCYT\OneDrive\GitHub\Laboratorio2\Laboratorio2\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Users\MINEDUCYT\OneDrive\GitHub\Laboratorio2\Laboratorio2\Laboratorio2\bin\Debug\EntityFramework.dll
+C:\Users\MINEDUCYT\OneDrive\GitHub\Laboratorio2\Laboratorio2\Laboratorio2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MINEDUCYT\OneDrive\GitHub\Laboratorio2\Laboratorio2\Laboratorio2\bin\Debug\EntityFramework.xml
+C:\Users\MINEDUCYT\OneDrive\GitHub\Laboratorio2\Laboratorio2\Laboratorio2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MINEDUCYT\OneDrive\GitHub\Laboratorio2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.exe
+C:\Users\MINEDUCYT\OneDrive\GitHub\Laboratorio2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.pdb

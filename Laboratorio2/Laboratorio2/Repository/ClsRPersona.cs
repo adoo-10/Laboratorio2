@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Laboratorio2.Repository
 {
@@ -23,24 +24,18 @@ namespace Laboratorio2.Repository
 
                     conexiónBd.persona.Add(pers);
                     conexiónBd.SaveChanges();
-                    MessageBox.Show("Save");
-                    
-                   
+                    MessageBox.Show("Datos Guardados");
+                                      
                 }
                 catch (Exception ex)
                 {
                     MessageBox.Show("Error de base de datos" + ex);
                 }
 
-
             }
-
-       
-        
-            
+     
         }
     
-
         public List<persona> listardatos()
         {
             using (almacendepersonasEntities conexiónBd = new almacendepersonasEntities())

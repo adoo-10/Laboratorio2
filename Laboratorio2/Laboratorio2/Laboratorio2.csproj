@@ -73,22 +73,22 @@
     <Compile Include="Data\persona.cs">
       <DependentUpon>baseDedatosPersonas.tt</DependentUpon>
     </Compile>
-    <Compile Include="FrmGuardarInformacion.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmGuardarInformacion.Designer.cs">
-      <DependentUpon>FrmGuardarInformacion.cs</DependentUpon>
-    </Compile>
     <Compile Include="Negocio\ClsPersona.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\ClsRPersona.cs" />
     <Compile Include="Service\IPersona.cs" />
-    <Compile Include="Vista\FrmMostrarInformarcion.cs">
+    <Compile Include="Vista\FrmGuardarInformacion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Vista\FrmMostrarInformarcion.Designer.cs">
-      <DependentUpon>FrmMostrarInformarcion.cs</DependentUpon>
+    <Compile Include="Vista\FrmGuardarInformacion.Designer.cs">
+      <DependentUpon>FrmGuardarInformacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\FrmMostrarInformacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FrmMostrarInformacion.Designer.cs">
+      <DependentUpon>FrmMostrarInformacion.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -99,6 +99,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Vista\FrmGuardarInformacion.resx">
+      <DependentUpon>FrmGuardarInformacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\FrmMostrarInformacion.resx">
+      <DependentUpon>FrmMostrarInformacion.cs</DependentUpon>
+    </EmbeddedResource>
     <EntityDeploy Include="Data\baseDedatosPersonas.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>baseDedatosPersonas.Designer.cs</LastGenOutput>
